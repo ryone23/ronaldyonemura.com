@@ -46,6 +46,7 @@ disableHugoGeneratorInject = false
   tag      = "tags"
   category = "categories"
   series   = "series"
+ 
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -133,3 +134,7 @@ disableHugoGeneratorInject = false
     identifier = "blog"
     name       = "Blog"
     url        = "blog/"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "projects/"

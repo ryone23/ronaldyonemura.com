@@ -58,17 +58,11 @@
       padding-top: 6px;
       margin-right: 1.8em;
       font-size: 1.6em;
-      @include dimmed;
-
+     
       @media #{$media-size-tablet} {
         margin: -6px 0 4px;
       }
-
-      color: #333;
-
-    .dark-theme & {
-      color: #fbfbfb;
-    }
+     
     }
 
     &-item {
@@ -92,13 +86,7 @@
     &-day {
       flex-shrink: 0;
       margin-left: 1em;
-      @include dimmed;
-
-      color: #333;
-
-    .dark-theme & {
-      color: #fbfbfb;
-    }
+     
     }
 
   }
