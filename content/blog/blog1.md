@@ -24,6 +24,8 @@ post only once or twice a week.
 
 As of now, these are the following types of posts I will make.
 
+&nbsp;
+
 **School**
 
 For these posts, I will talk about my experiences at UC
@@ -38,6 +40,8 @@ teach it and to highlight my journey through UC Berkeley life.
 These posts could also provide a look into what Berkeley life
 is as a transfer student.
 
+&nbsp;
+
 **Projects**
 
 A little different from the Classes posts, these posts will
@@ -48,6 +52,8 @@ settled on the theme/function of my web app. The Projects
 posts will discuss progress being made, challenges, and provide
 peaks into what I am currently working on outside of school.
 
+&nbsp;
+
 **Fitness**
 
 Over the past year and a half, I have been focusing on my
@@ -57,19 +63,23 @@ back up in my area, I plan to start a bulk in order to
 gain some muscle mass and become stronger. Therefore, in 
 Fitness posts, I will discuss current body measurements, 
 my workout regimen, and other relevant info/stories. I 
-think these posts will provide me with a good overiew of 
+think these posts will provide me with a good overview of 
 how I am progressing in my fitness journey.
+
+&nbsp;
 
 **Food**
 
 I love food. It is been very difficult for me cut a lot
 of food as I work on lowering my body fat percentage.
-I also enjoy cooking, and I have developed a few go to recipes
+I also enjoy cooking, and I have developed a few go-to recipes
 for when I have to cook for my family. Food posts will 
 discuss what I cooked (if I haven't listed it yet) or what
 I have eaten and my opinion on the dishes. While these posts 
 won't come as often now, as soon as I move into my own place
 and experience/cook more food, I will post more often.
+
+&nbsp;
 
 **Japanese Art**
 
@@ -84,9 +94,18 @@ if I can find it, and the more technical aspects of the piece of
 art. Being half Japanese, the study of these media will help me
 understand and appreciate my heritage.
 
-**Music**
-
-**Travel**
+&nbsp;
 
 **Personal**
 
+I will use these types of posts to discuss other things I enjoy such
+as music or travel. Movies, sports (including fantasy football), and 
+video games will also fall into this category. These topics could 
+eventually become their own tags, but due to current circumstances, 
+I don't have much to write about in any of these areas.
+
+&nbsp;
+
+I am excited to start this blog as a means to track my experiences
+and personal growth, and my hope is that I will be consistent
+throughout my journey.
