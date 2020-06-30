@@ -2,7 +2,7 @@
 title: "Introduction"
 description: "Welcome to my blog!"
 date: 2020-06-28T22:18:52-07:00
-draft: true
+draft: false
 toc: false
 images:
 categories:

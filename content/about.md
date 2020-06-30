@@ -1,7 +1,7 @@
 ---
 title: "About"
 date:
-draft: true
+draft: false
 comments: false
 images: 
 type: "about_layout" 

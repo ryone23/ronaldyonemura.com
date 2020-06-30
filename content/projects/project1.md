@@ -1,7 +1,7 @@
 ---
 title: "Tic-Tac-Toe Game with AI"
 date: 2020-06-29T16:33:57-07:00
-draft: true
+draft: false
 comments: false
 images: 
 ---
