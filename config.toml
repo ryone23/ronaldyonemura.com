@@ -1,4 +1,4 @@
-baseURL = "https://ronaldyonemura.com"
+baseURL = ""
 title   = "Ronald Yonemura"
 languageCode = "en-us"
 theme = "hello-friend-ng"
