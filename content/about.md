@@ -17,7 +17,7 @@ world. The close proximity to these companies is one
 of the factors that drew my interest to engineering 
 and computer science at a young age. As I work towards 
 completing my bachelor's degree, I hope to find an
-software engineering or research internship for summer
+software engineering or research internship for Summer
 2021. After college, I plan to pursue a career in the 
 Software Engineering field, more specifically in full 
 stack development.
