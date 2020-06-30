@@ -7,18 +7,20 @@ images:
 type: "about_layout" 
 ---
 
-Hello, I am Ronald Yonemura. I am an Electrical 
-Engineering and Computer Science (EECS) major at 
-UC Berkeley, and am currently in my junior year.
+Hello, I am Ronald Yonemura. I am a junior at UC
+Berkeley, and my major is Electrical Engineering
+and Computer Science (EECS). 
 
 Living in the Bay Area my entire life, I have been
 exposed to the one of the greatest tech hubs in the
 world. The close proximity to these companies is one
 of the factors that drew my interest to engineering 
 and computer science at a young age. As I work towards 
-completing my bachelor's degree, my goal is to pursue 
-a career in the Software Engineering field, more specifically 
-in full stack development.
+completing my bachelor's degree, I hope to find an
+software engineering or research internship for summer
+2021. After college, I plan to pursue a career in the 
+Software Engineering field, more specifically in full 
+stack development.
 
 #### **Programming Languages**
 
