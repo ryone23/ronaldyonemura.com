@@ -35,7 +35,7 @@ and XCode.
 
 
 <pre>
-``` java
-  System.out.println();
-
+```java
+  System.out.println(str);
+```
 </pre>
