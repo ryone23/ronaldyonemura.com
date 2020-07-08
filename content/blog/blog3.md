@@ -1,6 +1,6 @@
 ---
 title: "My Fitness Journey"
-date: 2020-07-08T16:18:38-07:00
+date: 2020-07-08T16:27:56-07:00
 draft: false
 toc: false
 images:
