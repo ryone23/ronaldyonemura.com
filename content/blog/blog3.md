@@ -4,8 +4,10 @@ date: 2020-07-08T16:27:56-07:00
 draft: false
 toc: false
 images:
-categories: [Fitness]
-tags: [fitness]
+categories:
+  - Fitness
+tags:
+  - fitness
 ---
 
 
