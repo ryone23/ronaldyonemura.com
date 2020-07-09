@@ -62,7 +62,7 @@ to eat their food and carbs, this was very difficult for me in the first two mon
 what helped me the most was slowly integrating each of the above every week or two. Before
 I knew it, I was a little less than 180 lbs., and I haven't even started going to the gym.
 
-**Going to the Gym**
+**Going To The Gym**
 
 After one of my close friends convinced me to get a membership, I finally stepped into
 the gym on Memorial Day. I had no idea what I was doing the first couple weeks and was 
@@ -93,7 +93,7 @@ bigger lunches and dinners to compensate. My fix for this was to start eating br
 my diet. I did an almost keto diet (I did eat fried chicken or fried fish). By July, I got as low as 145; a low I haven't 
 been at since before 7th-8th grade. 
 
-**Where I am at Now**
+**Where I Am At Now**
 
 While I was losing weight, my body fat percentage was still fairly high; it was around 20%. After doing some research,
 I found out it was because I am what they call skinny fat. Basically, I look skinny with clothes on, but I still have
