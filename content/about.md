@@ -33,4 +33,4 @@ I have experience with Microsoft Office and PostgreSQL.
 For IDEs, I have used Intellj IDEA, Visual Studio, Eclipse,
 and XCode.
 
-{{% staticref "resume/Yonemura_Ronald_Resume.pdf" %}}Download my Resume{{% /staticref %}}
+{{%attachments title="Resume" pattern=".*(pdf)"/%}}
