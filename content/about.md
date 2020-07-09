@@ -34,8 +34,6 @@ For IDEs, I have used Intellj IDEA, Visual Studio, Eclipse,
 and XCode.
 
 
-<pre>
 ```java
   System.out.println(str);
 ```
-</pre>
