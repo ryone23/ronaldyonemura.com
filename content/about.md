@@ -33,7 +33,4 @@ I have experience with Microsoft Office and PostgreSQL.
 For IDEs, I have used Intellj IDEA, Visual Studio, Eclipse,
 and XCode.
 
-
-```java
-  System.out.println(str);
-```
+{{% staticref "resume/Yonemura_Ronald_Resume.pdf" %}}Download my Resume{{% /staticref %}}
