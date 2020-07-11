@@ -12,7 +12,7 @@ tags:
 ---
 
 ```golang
-{{< image src="/img/Japanese_Tattoo_by_Kimbei_or_Stillfried.jpg" position="center" style="border-radius: 1px;" >}}
+{{< image src="/static/img/Japanese_Tattoo_by_Kimbei_or_Stillfried.jpg" position="center" >}}
 ```
 (Photo: [Wikimedia Commons Public Domain](https://commons.wikimedia.org/wiki/File:Japanese_Tattoo_by_Kimbei_or_Stillfried.jpg))
 
