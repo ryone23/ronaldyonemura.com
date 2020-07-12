@@ -33,6 +33,3 @@ I have experience with Microsoft Office and PostgreSQL.
 For IDEs, I have used Intellj IDEA, Visual Studio, Eclipse,
 and XCode.
 
-
-
-{{< instagram BSZx4l7Awiy >}}
