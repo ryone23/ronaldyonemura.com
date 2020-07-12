@@ -11,9 +11,8 @@ tags:
   - irezumi
 ---
 
-```golang
-{{< image src="/static/img/Japanese_Tattoo_by_Kimbei_or_Stillfried.jpg" position="center" >}}
-```
+{{< figure src="/img/Japanese_Tattoo_by_Kimbei_or_Stillfried.jpg" caption="(Photo: [Wikimedia Commons Public Domain](https://commons.wikimedia.org/wiki/File:Japanese_Tattoo_by_Kimbei_or_Stillfried.jpg))" >}}
+
 (Photo: [Wikimedia Commons Public Domain](https://commons.wikimedia.org/wiki/File:Japanese_Tattoo_by_Kimbei_or_Stillfried.jpg))
 
 
