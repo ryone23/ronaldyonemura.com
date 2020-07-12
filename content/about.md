@@ -35,4 +35,4 @@ and XCode.
 
 
 
-{{< instagram BSZx4l7Awiy/ >}}
+{{< instagram BSZx4l7Awiy >}}
