@@ -18,6 +18,8 @@ better shape. While I know that my process wasn't/isn't
 the most efficient, I am proud in the progress I made and
 motivated to keep it up.
 
+&nbsp;
+
 **Background**
 
 Despite playing baseball from the ages of 5 to 18, I have
@@ -41,6 +43,8 @@ So, like everyone does during the New Year, I decided to make it my goal to 1) L
 and 2) Go to the gym consistently. However, instead of doing both at the same time and give
 up in two weeks, I decided to just focus on 1 until the end of my school semester.
 
+&nbsp;
+
 **Initial Weight Loss**
 
 From January until the end of May 2019, I adjusted my eating habits by doing the following.
@@ -62,6 +66,8 @@ to eat their food and carbs, this was very difficult for me in the first two mon
 what helped me the most was slowly integrating each of the above every week or two. Before
 I knew it, I was a little less than 180 lbs., and I haven't even started going to the gym.
 
+&nbsp;
+
 **Going To The Gym**
 
 After one of my close friends convinced me to get a membership, I finally stepped into
@@ -77,12 +83,16 @@ shoulders Thursday, and back Friday. I wasn't knowledgeable with linear progress
 while I was making noob gains, I wasn't really focused on an optimal strength building. That being said,
 all I wanted to do was be consistent, and by the end of the summer I dropped to 162 and was getting stronger.
 
+&nbsp;
+
 **Bulk?**
 
 Of course, being the inexperienced I was, I thought it was time for a bulk. I knew what a bulk was, but was I ready
 to increase weight each week. No, I wasn't. I just ate more food and some of the junk I was eating 
 before (did I mention I love cookies?). I feel like I did get a bit stronger, but I was going about my "bulk"
 all wrong. I ended up going up to 178 and started cutting again in December. 
+
+&nbsp;
 
 **Second Cut**
 
@@ -92,6 +102,8 @@ I soon discovered that I was starting to plateau around 165. I attributed this t
 bigger lunches and dinners to compensate. My fix for this was to start eating breakfast again and to be stricter with
 my diet. I did an almost keto diet (I did eat fried chicken or fried fish). By July, I got as low as 145; a low I haven't 
 been at since before 7th-8th grade. 
+
+&nbsp;
 
 **Where I Am At Now**
 

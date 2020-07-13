@@ -7,7 +7,7 @@ images:
 ---
 **Link:**
 
-{{< github-shortcode "Tic-Tac-Toe" >}}
+{{< github-projects-shortcodes/tictactoe >}}
 
 **Programming Language:**
 
