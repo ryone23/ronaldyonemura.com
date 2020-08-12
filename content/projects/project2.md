@@ -12,8 +12,11 @@ images:
 **Technologies Used:**
 
 Java (Java 11)
+
 Postgresql
+
 Spring Boot
+
 Excel
 
 **Project Description:**
